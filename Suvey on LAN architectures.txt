@@ -1,0 +1,13 @@
+A hierarchical network design involves dividing the network into discrete layers. Each layer, or tier, in the hierarchy provides specific functions that define its role within the overall network. This helps the network designer and architect to optimize and select the right network hardware, software, and features to perform specific roles for that network layer. Hierarchical models apply to both LAN and WAN design.
+
+The benefit of dividing a flat network into smaller, more manageable blocks is that local traffic remains local. Only traffic that is destined for other networks is moved to a higher layer. For example, in Figure 1-3 the flat network has now been divided into three separate broadcast domains.
+
+A typical enterprise hierarchical LAN campus network design includes the following three layers:
+
+Access layer: Provides workgroup/user access to the network
+Distribution layer: Provides policy-based connectivity and controls the boundary between the access and core layers
+Core layer: Provides fast transport between distribution switches within the enterprise campus
+The three-tier hierarchical design maximizes performance, network availability, and the ability to scale the network design.
+
+However, many small enterprise networks do not grow significantly larger over time. Therefore, a two-tier hierarchical design where the core and distribution layers are collapsed into one layer is often more practical. A “collapsed core” is when the distribution layer and core layer functions are implemented by a single device. The primary motivation for the collapsed core design is reducing network cost, while maintaining most of the benefits of the three-tier hierarchical model.
+

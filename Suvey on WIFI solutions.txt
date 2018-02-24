@@ -1,0 +1,13 @@
+Nowadays, Wi-Fi is everywhere, it becomes the universal feature that your indoor network cameras supported. Compared with wired Ethernet connection, WiFi wireless technology offers a flexible, cost-efficient and quick way to deploy cameras for your video surveillance systems. Using WiFi, there would be no need to pull a cable through the wall or ground. As the pioneer network camera manufacturer, Unifore provides security cameras with built-in WiFi support.
+
+802.11 WLAN standards
+The most common WiFi standard for wireless local area networks (WLAN) is the 802.11 standard by IEEE. Currently, there are four extensions of the 802.11 standard including 802.11b, 802.11g, 802.11a, 802.11n and the latest 802.11ac. Different standards can provide different data transmitting speed, meanwhile offer additional data encryption. 802.11 standards operate in a license-free spectrum, including 2.4GHz and 5GHz.
+
+802.11b, which was approved in 1999, operates in the 2.4 GHz range and provides data rates up to 11 Mbit/s. Until 2004, most WLAN products sold were based on 802.11b. 
+802.11g, which was approved in 2003, is the most common 802.11 variant on the market. It operates in the 2.4 GHz range and provides data rates of up to 54 Mbit/s. WLAN products are usually 802.11b/g compliant.
+802.11a, which was approved in 1999, operates in the 5 GHz frequency range and provides data rates of up to 54 Mbit/s. An issue with the 5 GHz frequency range is that it is not available for use in parts of Europe where it is allocated for military radar systems. In such areas, 5 GHz WLAN components should conform to 802.11a/h standard. Another disadvantage with 802.11a is that its signal range is shorter than 802.11g’s because it operates on a higher frequency; consequently, many more access points are required for transmission in the 5 GHz range than in the 2.4 GHz range.
+
+802.11n, which is the current standard that will enable data rates of up to 600 Mbit/s. The newly developed products supporting 802.11n data rates of up to 300Mbit/s.
+
+802.11ac is the new 5th generation Wi-Fi standard in the 802.11 family (which is marketed under the brand name Wi-Fi). 1.3Gbps is the speed most commonly cited as the 802.11ac standard. This translates to 166MBp/s or 1331Mbp/s. It is vastly quicker than the 450Mbit/s headline speeds quoted on the highest performing 802.11n products.
+
